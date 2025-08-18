@@ -2,7 +2,7 @@ const CUSTOMER_SITES = {
      qiqi: {
 name: '七七资源',
  api: 'https://www.qiqidys.com/api.php/provide/vod',
-     }
+     },
     fantuan: {
      name: '饭团影视',
  api: 'https://www.fantuan.tv/api.php/provide/vod/',
