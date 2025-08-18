@@ -15,7 +15,7 @@ name: '影视工厂 ',
 name: '暴风资源',
  api: 'https://bf.xoxowin86cisyap.com//api.php/provide/vod/',
    },
-dytt {
+dytt : {
 name: '电影天堂',
  api: 'http://caiji.dyttzyapi.com/api.php/provide/vod/',
    },
