@@ -6,7 +6,7 @@ name: '七七资源',
     fantuan: {
      name: '饭团影视',
  api: 'https://www.fantuan.tv/api.php/provide/vod/',
-    },
+    }
 };
 
 // 调用全局方法合并
