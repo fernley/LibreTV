@@ -91,97 +91,63 @@ name: '影图资源',
 name: '无限资源',
  api: 'https://api.wuxianzy.net/api.php/provide/vod/',
     },
-
-
-
-
-     
-
-     
-
     aikun: {
-name: '爱坤资源',
- api: 'https://www.ikunzy.com/ikun/help.html',
+name: 'bibili资源',
+ api: 'https://www.caiji.cyou/api.php/provide/vod/?',
     },
-
-    pingguo: {
-name: '苹果cms官方',
- api: 'https://www.applecms.cc',
+    wolong: {
+name: '卧龙采集资源',
+ api: 'https://collect.wolongzy.cc/api.php/provide/vod/',
     },
-    zanpian: {
-name: '赞片cms官网',
- api: 'https://www.zanpiancms.com/',
-    },
-
-    xinlang: {
-name: '新浪资源网',
- api: 'https://www.xinlangzy.com/help/',
-    },
-    huya: {
-name: '虎牙资源网',
- api: 'http://huyazy.net/help/',
+    kuaiche: {
+name: '快车资源网',
+ api: 'https://caiji.kuaichezy.org/api.php/provide/vod/',
     },
 
     jisu: {
 name: '极速资源网',
- api: 'https://www.jisuzy.com/index.php/help/index.html',
+ api: 'https://jszyapi.com/api.php/provide/vod/',
     },
-
-
-
-
-
-    uku: {
-name: 'U酷资源站',
- api: 'https://ukuzy0.com/',
-    },
-    kuaiche: {
-name: '快车资源站',
- api: 'https://kuaichezy.com/',
-    },
-    jinying: {
-name: '金鹰资源站',
- api: 'https://jinyingzy.com/',
-    },
-    taopian: {
-name: '淘片资源站',
- api: 'https://www.taopianzy.com/',
-    },
-    wulong: {
-name: '卧龙资源站',
- api: 'https://wolongzyw.com/',
+         haohua: {
+name: '豪华资源站',
+ api: 'https://hhzyapi.com/api.php/provide/vod/',
     },
     niuniu: {
 name: '牛牛资源站',
- api: 'https://niuniuzy.cc/',
+ api: 'https://api.niuniuzy.me/api.php/provide/vod/',
     },
-    xmianyang: {
-name: '小绵羊资源站',
- api: 'https://vs.okcdn100.top/',
-        },
-    xiami: {
-name: '虾米资源站',
- api: 'https://zy.hls.one/',},
-    qiling: {
-name: '麒麟资源站',
- api: 'https://www.qilinzyz.com/',
+    jiuling: {
+name: '九零采集资源',
+ api: 'https://oknnews.com/api.php/provide/vod/',
     },
-
-    haohua: {
-name: '豪华资源站',
- api: 'https://haohuazy.com/',
+    siquan: {
+name: '四个圈采集',
+ api: 'https://pg.fenwe078.cf/api.php/provide/vod/',
     },
-    modu: {
+     
+ OK: {
+name: 'OK资源网采集',
+ api: 'https://okzyw9.com/api.php/provide/vod/',
+    },
+         modu: {
 name: '魔都资源站',
- api: 'https://moduzy.com/',
+ api: 'https://www.mdzyapi.com/api.php/provide/vod/',
     },
-    huohua: {
-name: '火花资源站',
- api: 'https://cj.huohua.live/',
+     
+
+
+
+
+
+
+
+    zuida: {
+name: '最大采集',
+ api: 'https://zuida.xyz/api.php/provide/vod/',
     },
-    subo: {
-name: '速播资源站',
- api: 'https://www.suboziyuan.net/',
+    tianya: {
+name: '天涯资源网',
+ api: 'https://tyyszyapi.com/api.php/provide/vod/',
     }
 
 };
