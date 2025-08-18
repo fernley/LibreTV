@@ -11,18 +11,99 @@ name: '七七资源',
 name: '影视工厂 ',
  api: 'https://cj.lziapi.com/api.php/provide/vod/',
     },
-     feifan: {
-name: '非凡采集站',
- api: 'http://ffzy5.tv/',
+   baofeng: {
+name: '暴风资源',
+ api: 'https://bf.xoxowin86cisyap.com//api.php/provide/vod/',
+   },
+dytt {
+name: '电影天堂',
+ api: 'http://caiji.dyttzyapi.com/api.php/provide/vod/',
+   },
+    maotai: {
+name: '茅台资源站',
+ api: 'https://caiji.maotaizy.cc/api.php/provide/vod/from/mtm3u8/',
+    },
+   fengchao: {
+name: '蜂巢资源站',
+ api: 'https://api.fczy888.me/api.php/provide/vod/',
+   },
+   wuxian: {
+name: '无限资源',
+ api: 'https://api.wuxianzy.net/api.php/provide/vod/?',
+   },
+liangzi: {
+name: '量子资源',
+ api: 'http://cj.lziapi.com/api.php/provide/vod/',
+   },
+
+     360: {
+name: '360资源',
+ api: 'https://360zy.com/api.php/provide/vod/',
      },
+    feifan: {
+name: '非凡采集站',
+ api: 'http://api.ffzyapi.com/api.php/provide/vod/',
+     },
+     youzhi: {
+name: '优质资源',
+ api: 'https://api.yzzy-api.com/inc/api_mac10.php?ac',
+     },
+    ruyi: {
+name: '如意资源网',
+ api: 'https://cj.rycjapi.com/api.php/provide/vod/',
+
+      wujing: {
+name: '无尽资源',
+ api: 'https://api.wujinapi.cc/api.php/provide/vod/',
+    huawei: {
+name: '华为吧资源',
+ api: https://huaweiba.live/api.php/provide/vod/',
+    },
+         heimuer: {
+name: '黑木耳资源站',
+ api: https://mycj-json.heimuer.xyz/api.php/provide/vod/',
+    },
+    mozhua: {
+name: '魔爪资源网',
+ api: 'https://mozhuazy.com/api.php/provide/vod/',
+    },
+         douban: {
+name: '豆瓣资源站',
+ api: https://caiji.dbzy.tv/api.php/provide/vod/,
+    },
+    guangsu: {
+name: '光速资源网',
+ api: 'http://api.guangsuapi.com/api.php/provide/vod/',
+    },
+   hongniu: {
+name: '红牛资源网',
+ api: 'https://www.hongniuzy2.com/api.php/provide/vod/',
+   },
+    suoni: {
+name: '索尼资源',
+ api: 'https://suoniapi.com/api.php/provide/vod/',
+    },
+     yingtu: {
+name: '影图资源',
+ api: 'https://cj.vodimg.top/api.php/provide/vod/',
+    },
+          wuxian: {
+name: '无限资源',
+ api: 'https://api.wuxianzy.net/api.php/provide/vod/',
+    },
+
+
+
+
+     
+
+     
+
     aikun: {
 name: '爱坤资源',
  api: 'https://www.ikunzy.com/ikun/help.html',
     },
-   baofeng: {
-name: '暴风资源',
- api: 'https://bfzy.tv/help/?home',
-   },
+
     pingguo: {
 name: '苹果cms官方',
  api: 'https://www.applecms.cc',
@@ -31,10 +112,7 @@ name: '苹果cms官方',
 name: '赞片cms官网',
  api: 'https://www.zanpiancms.com/',
     },
-    liangzi: {
-name: '量子资源网',
- api: 'http://lzizy.net/help/',
-    },
+
     xinlang: {
 name: '新浪资源网',
  api: 'https://www.xinlangzy.com/help/',
@@ -43,42 +121,16 @@ name: '新浪资源网',
 name: '虎牙资源网',
  api: 'http://huyazy.net/help/',
     },
-    guangsu: {
-name: '光速资源网',
- api: 'https://www.guangsuzy.com/help/',
-    },
+
     jisu: {
 name: '极速资源网',
  api: 'https://www.jisuzy.com/index.php/help/index.html',
     },
-   hongniu: {
-name: '红牛资源网',
- api: 'https://hongniuzy.net/help/',
-   },
-    ruyi: {
-name: '如意资源网',
- api: 'https://www.ryzy3.tv/',
-    },
-    mozhua: {
-name: '魔爪资源网',
- api: 'https://mzzy.me/',
-    },
-    huawei: {
-name: '华为吧资源',
- api: 'https://huawei8.live/',
-    },
-    douban: {
-name: '豆瓣资源站',
- api: 'https://dbzy.com/',
-    },
-    maotai: {
-name: '茅台资源站',
- api: 'https://mtzy.me/',
-    },
-    suoni: {
-name: '索尼资源',
- api: 'https://suonizy.net/',
-    },
+
+
+
+
+
     uku: {
 name: 'U酷资源站',
  api: 'https://ukuzy0.com/',
@@ -114,10 +166,7 @@ name: '虾米资源站',
 name: '麒麟资源站',
  api: 'https://www.qilinzyz.com/',
     },
-   fengchao: {
-name: '蜂巢资源站',
- api: 'https://fczy908.com/',
-   },
+
     haohua: {
 name: '豪华资源站',
  api: 'https://haohuazy.com/',
@@ -133,11 +182,8 @@ name: '火花资源站',
     subo: {
 name: '速播资源站',
  api: 'https://www.suboziyuan.net/',
-    },
-    heimuer: {
-name: '黑木耳资源站',
- api: 'https://heimuer.tv/',
     }
+
 };
 
 // 调用全局方法合并
