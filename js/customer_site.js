@@ -35,8 +35,7 @@ liangzi: {
 name: '量子资源',
  api: 'http://cj.lziapi.com/api.php/provide/vod/',
    },
-
-     360: {
+360: {
 name: '360资源',
  api: 'https://360zy.com/api.php/provide/vod/',
      },
@@ -51,17 +50,18 @@ name: '优质资源',
     ruyi: {
 name: '如意资源网',
  api: 'https://cj.rycjapi.com/api.php/provide/vod/',
-
+   },
       wujing: {
 name: '无尽资源',
  api: 'https://api.wujinapi.cc/api.php/provide/vod/',
+              },
     huawei: {
 name: '华为吧资源',
- api: https://huaweiba.live/api.php/provide/vod/',
+ api: 'https://huaweiba.live/api.php/provide/vod/',
     },
          heimuer: {
 name: '黑木耳资源站',
- api: https://mycj-json.heimuer.xyz/api.php/provide/vod/',
+ api: 'https://mycj-json.heimuer.xyz/api.php/provide/vod/',
     },
     mozhua: {
 name: '魔爪资源网',
@@ -69,7 +69,7 @@ name: '魔爪资源网',
     },
          douban: {
 name: '豆瓣资源站',
- api: https://caiji.dbzy.tv/api.php/provide/vod/,
+ api:' https://caiji.dbzy.tv/api.php/provide/vod/,
     },
     guangsu: {
 name: '光速资源网',
