@@ -50,7 +50,23 @@ name: '优质资源',
     ruyi: {
 name: '如意资源网',
  api: 'https://cj.rycjapi.com/api.php/provide/vod/',
-   }
+   },
+     wujing: {
+name: '无尽资源',
+ api: 'https://api.wujinapi.cc/api.php/provide/vod/',
+},
+     huawei: {
+name: '华为吧资源',
+ api: 'https://huaweiba.live/api.php/provide/vod/',
+    },
+      heimuer: {
+name: '黑木耳资源站',
+ api: 'https://mycj-json.heimuer.xyz/api.php/provide/vod/',
+    },
+      mozhua: {
+name: '魔爪资源网',
+ api: 'https://mozhuazy.com/api.php/provide/vod/',
+    }
 };
 
 // 调用全局方法合并
