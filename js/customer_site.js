@@ -8,7 +8,7 @@ siquan: {name: '*四个圈',api: 'https://pg.fenwe078.cf/api.php/provide/vod/',}
 zuida: {name: '*最大资源',api: 'https://zuida.xyz/api.php/provide/vod/',},
 ikun: {name: '*iKun资源',api: 'https://ikunzyapi.com/api.php/provide/vod',},
 wangwang: {name: '*旺旺短剧',api: 'https://wwzy.tv/api.php/provide/vod',},
-ysgc: {name: '*影视工厂 ',api: 'https://cj.lziapi.com/api.php/provide/vod/',},
+ysgc: {name: '*影视工厂',api: 'https://cj.lziapi.com/api.php/provide/vod/',},
 dytt : {name: '*电影天堂',api: 'http://caiji.dyttzyapi.com/api.php/provide/vod/',}, 
 liangzi: {name: '*量子资源',api: 'http://cj.lziapi.com/api.php/provide/vod/',},
 feifan: {name: '*非凡资源',api: 'http://api.ffzyapi.com/api.php/provide/vod/',},
