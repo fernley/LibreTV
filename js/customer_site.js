@@ -66,6 +66,42 @@ name: '黑木耳资源站',
       mozhua: {
 name: '魔爪资源网',
  api: 'https://mozhuazy.com/api.php/provide/vod/',
+    },
+     douban: {
+name: '豆瓣资源站',
+ api:' https://caiji.dbzy.tv/api.php/provide/vod/',
+    },
+      guangsu: {
+name: '光速资源网',
+ api: 'http://api.guangsuapi.com/api.php/provide/vod/',
+    },
+      hongniu: {
+name: '红牛资源网',
+ api: 'https://www.hongniuzy2.com/api.php/provide/vod/',
+   },
+      suoni: {
+name: '索尼资源',
+ api: 'https://suoniapi.com/api.php/provide/vod/',
+    },
+      yingtu: {
+name: '影图资源',
+ api: 'https://cj.vodimg.top/api.php/provide/vod/',
+    },
+      wuxian: {
+name: '无限资源',
+ api: 'https://api.wuxianzy.net/api.php/provide/vod/',
+    },
+     bibili: {
+name: 'bibili资源',
+ api: 'https://www.caiji.cyou/api.php/provide/vod/?',
+    },
+      wolong: {
+name: '卧龙采集资源',
+ api: 'https://collect.wolongzy.cc/api.php/provide/vod/',
+    },
+      kuaiche: {
+name: '快车资源网',
+ api: 'https://caiji.kuaichezy.org/api.php/provide/vod/',
     }
 };
 
