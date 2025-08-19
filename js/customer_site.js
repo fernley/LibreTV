@@ -6,7 +6,7 @@ maotai: {name: '*茅台资源',api: 'https://caiji.maotaizy.cc/api.php/provide/v
 mozhua: {name: '*魔爪资源',api: 'https://mozhuazy.com/api.php/provide/vod/',},
 siquan: {name: '*四个圈',api: 'https://pg.fenwe078.cf/api.php/provide/vod/',},
 zuida: {name: '*最大资源',api: 'https://zuida.xyz/api.php/provide/vod/',},
-ikun: {name: '*iKun资源',api: 'https://ikunzyapi.com/api.php/provide/vod',},
+ikun: {name: '*爱坤资源',api: 'https://ikunzyapi.com/api.php/provide/vod',},
 wangwang: {name: '*旺旺短剧',api: 'https://wwzy.tv/api.php/provide/vod',},
 ysgc: {name: '*影视工厂',api: 'https://cj.lziapi.com/api.php/provide/vod/',},
 dytt : {name: '*电影天堂',api: 'http://caiji.dyttzyapi.com/api.php/provide/vod/',}, 
@@ -17,9 +17,25 @@ wujing: {name: '*无尽资源',api: 'https://api.wujinapi.cc/api.php/provide/vod
 hongniu: {name: '*红牛资源',api: 'https://www.hongniuzy2.com/api.php/provide/vod/',},
 wuxian: {name: '*无限资源',api: 'https://api.wuxianzy.net/api.php/provide/vod/',},     
 wolong: {name: '*卧龙资源',api: 'https://collect.wolongzy.cc/api.php/provide/vod/',},
-tianya: {name: '*天涯资源',api: 'https://tyyszyapi.com/api.php/provide/vod/',}
-};
-
+tianya: {name: '*天涯资源',api: 'https://tyyszyapi.com/api.php/provide/vod/',},  
+heimuer: {name: '木耳资源',api: 'https://mycj-json.heimuer.xyz/api.php/provide/vod/', },
+douban: {name: '豆瓣资源',api:' https://caiji.dbzy.tv/api.php/provide/vod/',},
+modu: {name: '魔都资源',api: 'https://www.mdzyapi.com/api.php/provide/vod/',},
+yinghua: {name: '樱花资源',api: 'https://m3u8.apiyhzy.com/api.php/provide/vod',},
+maomi: {name: '猫咪资源',api: 'https://zy.xmm.hk/api.php/provide/vod',},
+qiqi: {name: '七七资源',api: 'https://www.qiqidys.com/api.php/provide/vod',},
+fantuan: {name: '饭团影视',api: 'https://www.fantuan.tv/api.php/provide/vod/',},
+fengchao: {name: '蜂巢资源',api: 'https://api.fczy888.me/api.php/provide/vod/',},
+wuxian: {name: '无限资源',api: 'https://api.wuxianzy.net/api.php/provide/vod/?',},
+huawei: {name: '华为资源',api: 'https://huaweiba.live/api.php/provide/vod/',},
+suoni: {name: '索尼资源',api: 'https://suoniapi.com/api.php/provide/vod/',},
+yingtu: {name: '影图资源',api: 'https://cj.vodimg.top/api.php/provide/vod/',},
+kuaiche: {name: '快车资源',api: 'https://caiji.kuaichezy.org/api.php/provide/vod/',},
+jisu: {name: '极速资源',api: 'https://jszyapi.com/api.php/provide/vod/',},
+niuniu: {name: '牛牛资源',api: 'https://api.niuniuzy.me/api.php/provide/vod/',},
+jiuling: {name: '九零资源',api: 'https://oknnews.com/api.php/provide/vod/',},
+OK: {name: 'OK资源',api: 'https://okzyw9.com/api.php/provide/vod/',}
+},
 // 调用全局方法合并
 if (window.extendAPISites) {
     window.extendAPISites(CUSTOMER_SITES);
