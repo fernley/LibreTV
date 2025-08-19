@@ -35,7 +35,7 @@ jisu: {name: '极速资源',api: 'https://jszyapi.com/api.php/provide/vod/',},
 niuniu: {name: '牛牛资源',api: 'https://api.niuniuzy.me/api.php/provide/vod/',},
 jiuling: {name: '九零资源',api: 'https://oknnews.com/api.php/provide/vod/',},
 OK: {name: 'OK资源',api: 'https://okzyw9.com/api.php/provide/vod/',}
-},
+};
 // 调用全局方法合并
 if (window.extendAPISites) {
     window.extendAPISites(CUSTOMER_SITES);
