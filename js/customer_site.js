@@ -102,6 +102,42 @@ name: '卧龙采集资源',
       kuaiche: {
 name: '快车资源网',
  api: 'https://caiji.kuaichezy.org/api.php/provide/vod/',
+    },
+     jisu: {
+name: '极速资源网',
+ api: 'https://jszyapi.com/api.php/provide/vod/',
+    },
+     haohua: {
+name: '豪华资源站',
+ api: 'https://hhzyapi.com/api.php/provide/vod/',
+    },
+      niuniu: {
+name: '牛牛资源站',
+ api: 'https://api.niuniuzy.me/api.php/provide/vod/',
+    },
+     jiuling: {
+name: '九零采集资源',
+ api: 'https://oknnews.com/api.php/provide/vod/',
+    },
+     siquan: {
+name: '四个圈采集',
+ api: 'https://pg.fenwe078.cf/api.php/provide/vod/',
+    },
+     OK: {
+name: 'OK资源网采集',
+ api: 'https://okzyw9.com/api.php/provide/vod/',
+    },
+     modu: {
+name: '魔都资源站',
+ api: 'https://www.mdzyapi.com/api.php/provide/vod/',
+    },
+      zuida: {
+name: '最大采集',
+ api: 'https://zuida.xyz/api.php/provide/vod/',
+    },
+     tianya: {
+name: '天涯资源网',
+ api: 'https://tyyszyapi.com/api.php/provide/vod/',
     }
 };
 
