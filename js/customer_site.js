@@ -71,10 +71,6 @@ name: '魔爪资源网',
 name: '豆瓣资源站',
  api:' https://caiji.dbzy.tv/api.php/provide/vod/',
     },
-      guangsu: {
-name: '光速资源网',
- api: 'http://api.guangsuapi.com/api.php/provide/vod/',
-    },
       hongniu: {
 name: '红牛资源网',
  api: 'https://www.hongniuzy2.com/api.php/provide/vod/',
@@ -106,10 +102,6 @@ name: '快车资源网',
      jisu: {
 name: '极速资源网',
  api: 'https://jszyapi.com/api.php/provide/vod/',
-    },
-     haohua: {
-name: '豪华资源站',
- api: 'https://hhzyapi.com/api.php/provide/vod/',
     },
       niuniu: {
 name: '牛牛资源站',
